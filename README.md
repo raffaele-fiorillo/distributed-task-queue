@@ -86,7 +86,7 @@ distributed-task-queue/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/distributed-task-queue.git
+git clone [https://github.com/your-username/distributed-task-queue.git](https://github.com/raffaele-fiorillo/distributed-task-queue)
 cd distributed-task-queue
 ```
 
