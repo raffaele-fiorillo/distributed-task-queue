@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+resized_*
+.env
+.venv
